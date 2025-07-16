@@ -3,3 +3,5 @@
 ## 2. What is Middleware in Express JS? | Node.js Tutorials for Beginners
 
 ## 3. MVC Model-View-Controller Example | CRUD REST API | Node.js & Express tutorials for Beginners
+
+## 4. User Password Authentication | Node.js & Express Tutorials for Beginners
