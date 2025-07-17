@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "username": "walt1",
+    "roles": {
+      "User": 2001,
+      "Editor": 1984,
+      "Admin": 5150
+    }
+    "password" : "walt1234",
+    "refreshToken"
+  },
+  {
+    "username": "dave1",
+    "roles": {
+      "User": 2001,
+      "Editor": 1984,
+      "Admin": 5150
+    }
+    "password" : "walt1234",
+    "refreshToken": "walt2_refresh_token"
+  }
+  "username": "walt2"
+  "roles": {
+    "User": 2001,
+    "Editor": 1984,
+    "Admin": 5150
+  },
+ 
