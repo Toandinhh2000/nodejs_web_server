@@ -5,3 +5,5 @@
 ## 3. MVC Model-View-Controller Example | CRUD REST API | Node.js & Express tutorials for Beginners
 
 ## 4. User Password Authentication | Node.js & Express Tutorials for Beginners
+
+## 5. JWT Authentication | Node JS and Express tutorials for Beginners
