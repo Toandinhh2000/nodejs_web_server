@@ -7,3 +7,5 @@
 ## 4. User Password Authentication | Node.js & Express Tutorials for Beginners
 
 ## 5. JWT Authentication | Node JS and Express tutorials for Beginners
+
+## 6. How to Authorize User Roles and Permissions | Node.js & Express Authorization Tutorial
